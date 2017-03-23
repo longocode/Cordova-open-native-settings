@@ -1,6 +1,6 @@
-#NativeSettings plugin for Android and iOS 8 Cordova.
+#NativeSettings plugin for Android and iOS 10 Cordova.
 
-The plugin allows you to open Settings view from Android Cordova application and to open Native App settings view from iOS 8 Cordova application. Based on https://github.com/raulduran/VideoPlayer.
+The plugin allows you to open Settings view from Android Cordova application and to open Native App settings view from iOS 10 Cordova application. Based on https://github.com/raulduran/VideoPlayer.
 
 ##Adding the Plugin to your project
 
